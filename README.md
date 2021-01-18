@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello world 👋 <br>I'm Savandara Besse aka. Savvy</h1>
+<h1 align="center">Hello world 👋</h1>
 
 ## About me
 
