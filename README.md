@@ -2,7 +2,7 @@
 
 - PhD candidate in Bioinformatics at Université de Montréal 💻🤓 
 - Communication manager for <a href='https://igem-ties.info/'>iGEM TIES</a> 📱
-- President of <a href='http://www.aebinum.umontreal.ca/'>AEBINUM 👩‍🎓 
+- President of <a href='http://www.aebinum.umontreal.ca/'>AEBINUM</a> 👩‍🎓 
 
 ## PhD supervision
 
