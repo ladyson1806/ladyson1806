@@ -9,10 +9,11 @@
 
 ### PhD supervision
 
-- Dr Adrian Serohijos (https://www.serohijoslab.org/) 
-- Dr Julie Hussin (https://mhi-omics.org/)
+- Dr Adrian Serohijos --> https://www.serohijoslab.org/
+- Dr Julie Hussin --> https://mhi-omics.org/
 
 ### Links
 
-- <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn</a>
+- <a href='https://twitter.com/SavvyBioinfo'>Twitter 🐣</a>
+- <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn 👨🏽‍💻</a>
 - <a href=''>savvy-bioinfo</a> blog in resurrection soon...
