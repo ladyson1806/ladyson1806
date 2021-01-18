@@ -1,9 +1,13 @@
 ## About me
 
 - PhD candidate in Bioinformatics at Université de Montréal 💻🤓 
-	- Supervision by Dr Adrian Serohijos (https://www.serohijoslab.org/) & Dr Julie Hussin (https://mhi-omics.org/)
 - Communication manager for <a href='https://igem-ties.info/'>iGEM TIES</a> 📱
 - President of <a href='http://www.aebinum.umontreal.ca/'>AEBINUM 👩‍🎓 
+
+## PhD supervision
+
+- Dr Adrian Serohijos (https://www.serohijoslab.org/) 
+- Dr Julie Hussin (https://mhi-omics.org/)
 
 ## Links
 
