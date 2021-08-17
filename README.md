@@ -15,4 +15,3 @@
 ### Links
 
 - <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn 👨🏽‍💻</a>
-- <a href=''>savvy-bioinfo</a> in resurrection soon...
