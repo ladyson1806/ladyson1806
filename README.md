@@ -7,14 +7,18 @@
 - Communication manager for <a href='https://igem-ties.info/'>iGEM TIES</a> 📱
 - President of <a href='http://www.aebinum.umontreal.ca/'>AEBINUM</a> 👩‍🎓 
 
+
 ### PhD supervision
 
 - Dr Adrian Serohijos --> https://www.serohijoslab.org/
 - Dr Julie Hussin --> https://mhi-omics.org/
 
-### Links
+
+### Want to ping me?
 
 - <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn 👨🏽‍💻</a>
+- <a href='https://www.researchgate.net/profile/Savandara-Besse'>ResearchGate 👩‍🔬</a>
+
 
 ### Last publications
 
