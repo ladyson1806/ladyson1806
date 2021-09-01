@@ -14,7 +14,7 @@
 - Dr Julie Hussin --> https://mhi-omics.org/
 
 
-### Last publications
+### Lastest publications
 
 - __Comparative study of protein aggregation propensity and mutation tolerance between naked mole-rat and mouse__ <br> **Savandara Besse**, Raphaël Poujol, Julie G. Hussin - bioRxiv 2021.08.20.457120; doi: https://doi.org/10.1101/2021.08.20.457120 <br>
 (Code: https://github.com/ladyson1806/NKR_lifespan)
