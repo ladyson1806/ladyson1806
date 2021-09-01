@@ -16,10 +16,10 @@
 
 ### Last publications
 
-- __Comparative study of protein aggregation propensity and mutation tolerance between naked mole-rat and mouse__ <br> **Savandara Besse**, Raphaël Poujol, Julie G. Hussin - bioRxiv 2021.08.20.457120; doi: https://doi.org/10.1101/2021.08.20.457120 
+- __Comparative study of protein aggregation propensity and mutation tolerance between naked mole-rat and mouse__ <br> **Savandara Besse**, Raphaël Poujol, Julie G. Hussin - bioRxiv 2021.08.20.457120; doi: https://doi.org/10.1101/2021.08.20.457120 <br>
 (Code: https://github.com/ladyson1806/NKR_lifespan)
 
-- __Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of a novel germ line regulator__ <br> Leo Blondel, **Savandara Besse**, Cassandra G. Extavour - bioRxiv 2021.04.26.441385; doi: https://doi.org/10.1101/2021.04.26.441385 
+- __Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of a novel germ line regulator__ <br> Leo Blondel, **Savandara Besse**, Cassandra G. Extavour - bioRxiv 2021.04.26.441385; doi: https://doi.org/10.1101/2021.04.26.441385 <br>
 (Code: https://github.com/extavourlab/Oskar_Evolution)
 
 
