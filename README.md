@@ -9,7 +9,7 @@
 
 ### PhD supervision
 
-- Dr Adrian Serohijos --> https://www.serohijoslab.org/
+- Dr Adrian Serohijos --> http://www.serohijoslab.org/
 - Dr Julie Hussin --> https://mhi-omics.org/
 
 
