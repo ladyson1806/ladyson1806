@@ -4,8 +4,6 @@
 ### About me
 
 - PhD candidate in Bioinformatics at Université de Montréal 💻🤓 
-- President of <a href='http://www.aebinum.umontreal.ca/'>AEBINUM</a> 👩‍🎓 
-
 
 ### PhD supervision
 
