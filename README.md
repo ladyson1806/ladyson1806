@@ -6,7 +6,7 @@ I am a passionate bioinformatician who love working with tons of various omics d
 
 ### Academic background
 - PhD candidate in Bioinformatics at Université de Montréal (Montréal, CANADA)
-- Supervised by 
+- Supervision by 
   - Adrian Serohijos, PhD (<a href='http://www.serohijoslab.org/'>Website</a>)
   - Julie Hussin, PhD (<a href='https://mhi-omics.org/'>Website</a>) 
 
