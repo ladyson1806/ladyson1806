@@ -9,18 +9,18 @@ I am a passionate bioinformatician who love working with tons of various omics d
 - Supervised by 
   - Adrian Serohijos, PhD --> http://www.serohijoslab.org/
   - Julie Hussin, PhD --> https://mhi-omics.org/
-  - 
+
 > PhD Defense expected by April 2023!
 
 ### Current position 
 - Bioinformatician (IE) at Université Paris Cité - INSERM U1284 (Paris, FRANCE)
 - Project in collaboration with
-  - Michael Rera, PhD -->
+  - Michael Rera, PhD
   - Marc Santolini, PhD --> https://interactiondatalab.com/
 
 
 ### Expertises
-$\bullet$ Evolutionary Biology $\bullet$ Comparative Genomics $\bullet$ System Biology 
+$\bullet$ Evolutionary Biology $\bullet$ Comparative Genomics $\bullet$ System Biology <br>
 $\bullet$ Network Biology $\bullet$ Population Genetics 
 
 
