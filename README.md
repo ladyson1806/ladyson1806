@@ -13,11 +13,11 @@
 
 ### Lastest publications
 
-- **Savandara Besse**, Raphaël Poujol, Julie G. Hussin <br> 
+- **Savandara Besse**, Raphaël Poujol, Julie Hussin <br> 
 __Comparative study of protein aggregation propensity and mutation tolerance between naked mole-rat and mouse__, Genome Biology and Evolution, 2022; evac057, https://doi.org/10.1093/gbe/evac057
 <br> (Code: https://github.com/ladyson1806/NKR_lifespan)
 
-- Leo Blondel, **Savandara Besse**, Emily L Rivard, Guillem Ylla, Cassandra G Extavour <br>
+- Leo Blondel, **Savandara Besse**, Emily Rivard, Guillem Ylla, Cassandra  Extavour <br>
 __Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of the novel germ line regulator oskar__, Molecular Biology and Evolution, 2021; msab284; doi: https://doi.org/10.1093/molbev/msab284 
 <br> (Code: https://github.com/extavourlab/Oskar_Evolution)
 
