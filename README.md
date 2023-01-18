@@ -24,7 +24,9 @@ I am a passionate bioinformatician who love working with tons of various omics d
 
 ### Expertises
 $\bullet$ Evolutionary Biology $\bullet$ Comparative Genomics $\bullet$ System Biology <br>
-$\bullet$ Network Biology $\bullet$ Population Genetics 
+$\bullet$ Network Biology $\bullet$ Population Genetics
+
+<br>
 
 __________
 
