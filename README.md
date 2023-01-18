@@ -17,7 +17,7 @@ I am a passionate bioinformatician who love working with tons of various omics d
 ### Current position 
 - Bioinformatician (IE) at Université Paris Cité - INSERM U1284 (Paris, FRANCE)
 - Project in collaboration with
-  - Michael Rera, PhD
+  - Michael Rera, PhD --> https://michaelrera.github.io/
   - Marc Santolini, PhD --> https://interactiondatalab.com/
 
 <br>
