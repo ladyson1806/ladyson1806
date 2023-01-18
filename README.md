@@ -13,7 +13,6 @@ I am a passionate bioinformatician who love working with tons of various omics d
 > PhD Defense expected by April 2023!
 
 <br>
-<br>
 
 ### Current position 
 - Bioinformatician (IE) at Université Paris Cité - INSERM U1284 (Paris, FRANCE)
@@ -21,7 +20,6 @@ I am a passionate bioinformatician who love working with tons of various omics d
   - Michael Rera, PhD
   - Marc Santolini, PhD --> https://interactiondatalab.com/
 
-<br>
 <br>
 
 ### Expertises
