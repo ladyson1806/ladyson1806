@@ -1,14 +1,27 @@
 
 <h1 align="center">Hello world 👋</h1>
 
-### About me
+### About me 💻🤓 
+I am a passionate bioinformatician who love working with tons of various omics data for investigating the molecular mechanisms behind complex traits, and more specifically drug-response phenotypes, ageing and age-associated diseases. 
 
-- PhD candidate in Bioinformatics at Université de Montréal 💻🤓 
+### Academic background
+- PhD candidate in Bioinformatics at Université de Montréal (Montréal, CANADA)
+- Supervised by 
+  - Adrian Serohijos, PhD --> http://www.serohijoslab.org/
+  - Julie Hussin, PhD --> https://mhi-omics.org/
+  - 
+> PhD Defense expected by April 2023!
 
-### PhD supervision
+### Current position 
+- Bioinformatician (IE) at Université Paris Cité - INSERM U1284 (Paris, FRANCE)
+- Project in collaboration with
+  - Michael Rera, PhD -->
+  - Marc Santolini, PhD --> https://interactiondatalab.com/
 
-- Dr Adrian Serohijos --> http://www.serohijoslab.org/
-- Dr Julie Hussin --> https://mhi-omics.org/
+
+### Expertises
+$\bullet$ Evolutionary Biology $\bullet$ Comparative Genomics $\bullet$ System Biology 
+$\bullet$ Network Biology $\bullet$ Population Genetics 
 
 
 ### Lastest publications
