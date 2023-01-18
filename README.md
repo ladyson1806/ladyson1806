@@ -37,7 +37,7 @@ __Comparative study of protein aggregation propensity and mutation tolerance bet
 [Genome Biology and Evolution, 2022, evac057](https://doi.org/10.1093/gbe/evac057) ([Code](https://github.com/ladyson1806/NKR_lifespan))
 
 - Leo Blondel,  <u>Savandara Besse</u>, Emily Rivard, Guillem Ylla, Cassandra  Extavour <br>
-__Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of the novel germ line regulator _oskar_ __ <br>
+__Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of the novel germ line regulator _oskar___ <br>
 [Molecular Biology and Evolution, 2021, msab284](https://doi.org/10.1093/molbev/msab284) ([Code](https://github.com/extavourlab/Oskar_Evolution))
 
 
