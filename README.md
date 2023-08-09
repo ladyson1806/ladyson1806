@@ -10,7 +10,7 @@ I am a passionate bioinformatician who love working with tons of various omics d
   - Adrian Serohijos, PhD (<a href='http://www.serohijoslab.org/'>Website</a>)
   - Julie Hussin, PhD (<a href='https://mhi-omics.org/'>Website</a>) 
 
-> PhD Defense expected by April 2023!
+> PhD Defense on September 5th, 2023!
 
 <br>
 
