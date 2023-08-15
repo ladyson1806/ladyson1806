@@ -32,15 +32,15 @@ __________
 
 ### Lastest publications
 
-- Flaminia Zane, Hayet Bouzid, Sofia Sosa Marmol, Mira Brazane, <u>Savandara Besse</u>, Julia Lisa Molina, Céline Cansell, Fanny Aprahamian, Sylvère Durand, Jessica Ayache, Christophe Antoniewski, Michael Rera <br>
+- Flaminia Zane, Hayet Bouzid, Sofia Sosa Marmol, Mira Brazane, __Savandara Besse__, Julia Lisa Molina, Céline Cansell, Fanny Aprahamian, Sylvère Durand, Jessica Ayache, Christophe Antoniewski, Michael Rera <br>
 __Smurfness-based two-phase model of ageing helps deconvolve the ageing transcriptional signature__,
 [Aging Cell, 2023, ](https://doi.org/10.1101/2022.11.22.517330) ([Code](https://github.com/MichaelRera/SmurfsTrsc))
 
-- <u>Savandara Besse</u>, Raphaël Poujol, Julie Hussin <br> 
+- __Savandara Besse__, Raphaël Poujol, Julie Hussin <br> 
 __Comparative study of protein aggregation propensity and mutation tolerance between naked mole-rat and mouse__,
 [Genome Biology and Evolution, 2022, evac057](https://doi.org/10.1093/gbe/evac057) ([Code](https://github.com/ladyson1806/NKR_lifespan))
 
-- Leo Blondel,  <u>Savandara Besse</u>, Emily Rivard, Guillem Ylla, Cassandra Extavour <br>
+- Leo Blondel,  __Savandara Besse__, Emily Rivard, Guillem Ylla, Cassandra Extavour <br>
 __Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of the novel germ line regulator _oskar___,
 [Molecular Biology and Evolution, 2021, msab284](https://doi.org/10.1093/molbev/msab284) ([Code](https://github.com/extavourlab/Oskar_Evolution))
 
