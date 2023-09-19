@@ -23,7 +23,7 @@ I am a passionate bioinformatician who love working with tons of various omics d
 <br>
 
 ### Expertises and interests
-$\bullet$ Computational Biology $\bullet$ Evolutionary Biology $\bullet$ Systems Biology $\bullet$ Network Biology $\bullet$ Population Genetics <br>
+$\bullet$ Bioinformatics $\bullet$ Systems Biology $\bullet$ Evolutionary Genomics $\bullet$ Comparative Genomics $\bullet$ Statistical Genomics <br>
 
 $\bullet$ Complex traits $\bullet$ Omics-data science $\bullet$ Biological Networks $\bullet$ GWAS $\bullet$ QTL mapping $\bullet$ Biology of Aging $\bullet$ Evolution of Aging <br>
 $\bullet$ Conventional (_S. cerevisiae_, _D. melanogaster_, _D. renio_, _M. musculus_) and non conventional (_H. glaber_) model organisms
