@@ -4,6 +4,14 @@
 ### About me 💻🤓 
 I am a passionate bioinformatician who love working with tons of various omics data for investigating the molecular mechanisms behind complex traits, and more specifically drug-response phenotypes, aging and age-associated diseases. 
 
+### Current position 
+- Bioinformatician Post-Doctoral Researcher at Université Paris Cité - Institut Jacques Monod (Paris, FRANCE)
+- Project in collaboration with
+  - Michael Rera, PhD (<a href='https://michaelrera.github.io/'>Website</a>) 
+  - Marc Santolini, PhD (<a href='https://interactiondatalab.com/'>Website</a>) 
+
+<br>
+
 ### Academic background
 - PhD candidate in Bioinformatics at Université de Montréal (Montréal, CANADA)
 - Supervision by 
@@ -11,14 +19,6 @@ I am a passionate bioinformatician who love working with tons of various omics d
   - Julie Hussin, PhD (<a href='https://mhi-omics.org/'>Website</a>) 
 
 > PhD Defense on September 5th, 2023!
-
-<br>
-
-### Current position 
-- Bioinformatician (IE) at Université Paris Cité - INSERM U1284 (Paris, FRANCE)
-- Project in collaboration with
-  - Michael Rera, PhD (<a href='https://michaelrera.github.io/'>Website</a>) 
-  - Marc Santolini, PhD (<a href='https://interactiondatalab.com/'>Website</a>) 
 
 <br>
 
