@@ -20,8 +20,8 @@ I am a passionate bioinformatician who love working with tons of various omics d
 
 ### Latest news
 
-06/24/2024 to 06/28/2024: __I'll be at JOBIM Toulouse! Say hi, if you see me there 😊__
-09/23/2023: __PhD Defended!__ 🎉
+- 06/24/2024 to 06/28/2024: __I'll be at JOBIM Toulouse! Say hi, if you see me there 😊__
+- 09/23/2023: __PhD Defended!__ 🎉
 
 
 <br>
