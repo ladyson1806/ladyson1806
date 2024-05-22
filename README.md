@@ -35,11 +35,6 @@ __________
 
 - Leo Blondel,  __Savandara Besse__, Emily Rivard, Guillem Ylla, Cassandra Extavour, __Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of the novel germ line regulator _oskar___, Published in [Molecular Biology and Evolution, 2021, msab284](https://doi.org/10.1093/molbev/msab284) ([Code](https://github.com/extavourlab/Oskar_Evolution))
 
-
-#### Where can you find me?
-- <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn 👨🏽‍💻</a>
-- <a href='https://www.researchgate.net/profile/Savandara-Besse'>ResearchGate 👩‍🔬</a>
-
 _________
 
 ### Latest news
@@ -47,3 +42,6 @@ _________
 - 06/24/2024 to 06/28/2024: __I'll be at JOBIM Toulouse! Say hi, if you see me there 😊__
 - 09/23/2023: __PhD Defended!__ 🎉
 
+#### Where can you find me?
+- <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn 👨🏽‍💻</a>
+- <a href='https://www.researchgate.net/profile/Savandara-Besse'>ResearchGate 👩‍🔬</a>
