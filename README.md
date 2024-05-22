@@ -17,7 +17,13 @@ I am a passionate bioinformatician who love working with tons of various omics d
   - Adrian Serohijos, PhD (<a href='http://www.serohijoslab.org/'>Website</a>) [Université de Montréal]
   - Julie Hussin, PhD (<a href='https://mhi-omics.org/'>Website</a>) [Université de Montréal]
 
-> PhD Defense on September 5th, 2023! 🎉
+
+### Latest news
+
+06/24/2024 to 06/28/2024: __I'll be at JOBIM Toulouse! Say hi, if you see me there 😊__
+09/23/2023: __PhD Defended!__ 🎉
+
+
 <br>
 
 ### Expertises and interests
