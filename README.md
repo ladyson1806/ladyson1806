@@ -9,7 +9,8 @@ I am a passionate bioinformatician who love working with tons of various omics d
 - Project in collaboration with
   - Michael Rera, PhD (<a href='https://michaelrera.github.io/'>Website</a>) [CNRS]
   - Marc Santolini, PhD (<a href='https://interactiondatalab.com/'>Website</a>) [Learning Planet Institute]
-<br>
+
+_________
 
 ### Academic background
 - PhD candidate in Bioinformatics @ Université de Montréal (Montréal, CANADA)
