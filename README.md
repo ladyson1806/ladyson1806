@@ -17,14 +17,7 @@ I am a passionate bioinformatician who love working with tons of various omics d
   - Adrian Serohijos, PhD (<a href='http://www.serohijoslab.org/'>Website</a>) [Université de Montréal]
   - Julie Hussin, PhD (<a href='https://mhi-omics.org/'>Website</a>) [Université de Montréal]
 
-
-### Latest news
-
-- 06/24/2024 to 06/28/2024: __I'll be at JOBIM Toulouse! Say hi, if you see me there 😊__
-- 09/23/2023: __PhD Defended!__ 🎉
-
-
-<br>
+_________
 
 ### Expertises and interests
 $\bullet$ Bioinformatics $\bullet$ Systems Biology $\bullet$ Evolutionary Genomics $\bullet$ Comparative Genomics $\bullet$ Statistical Genomics <br>
@@ -46,3 +39,11 @@ __________
 #### Where can you find me?
 - <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn 👨🏽‍💻</a>
 - <a href='https://www.researchgate.net/profile/Savandara-Besse'>ResearchGate 👩‍🔬</a>
+
+_________
+
+### Latest news
+
+- 06/24/2024 to 06/28/2024: __I'll be at JOBIM Toulouse! Say hi, if you see me there 😊__
+- 09/23/2023: __PhD Defended!__ 🎉
+
