@@ -2,7 +2,7 @@
 <h1 align="center">Hello world 👋</h1>
 
 ### About me 💻🤓 
-I am a passionate bioinformatician who love working with tons of various omics data for investigating the molecular mechanisms behind complex traits, and more specifically drug-response phenotypes, aging and age-associated diseases. 
+I am a passionate bioinformatician who love working various -omics data (genomes, transcriptomes, proteomes and interactomes) for investigating the molecular mechanisms behind complex traits, and more specifically drug-response phenotypes, aging and age-associated diseases. 
 
 ### Current position 
 - Bioinformatician Post-Doctoral Researcher @ Université Paris Cité - CNRS UMR7592 / Institut Jacques Monod (Paris, FRANCE)
@@ -21,7 +21,7 @@ _________
 _________
 
 ### Expertises and interests
-$\bullet$ Bioinformatics $\bullet$ Systems Biology $\bullet$ Evolutionary Genomics $\bullet$ Comparative Genomics $\bullet$ Statistical Genomics <br>
+$\bullet$ Bioinformatics $\bullet$ Computational Systems Biology $\bullet$ Evolutionary Biology $\bullet$ Comparative Genomics $\bullet$ Statistical Genetics <br>
 
 $\bullet$ Complex traits $\bullet$ Omics-data science $\bullet$ Biological Networks $\bullet$ GWAS $\bullet$ QTL mapping $\bullet$ Biology of Aging $\bullet$ Evolution of Aging <br>
 $\bullet$ Conventional (_S. cerevisiae_, _D. melanogaster_, _D. renio_, _M. musculus_) and non conventional (_H. glaber_) model organisms
