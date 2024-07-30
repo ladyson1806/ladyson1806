@@ -12,7 +12,7 @@ I am a passionate bioinformatician who love working various -omics data (genomes
 
 _________
 
-### Academic background
+### Education
 - PhD candidate in Bioinformatics @ Université de Montréal (Montréal, CANADA)
 - Supervision by 
   - Adrian Serohijos, PhD (<a href='http://www.serohijoslab.org/'>Website</a>) [Université de Montréal]
