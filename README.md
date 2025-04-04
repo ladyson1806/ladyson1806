@@ -5,7 +5,7 @@
 I am a passionate bioinformatician who love working various -omics data (genomes, transcriptomes, proteomes and interactomes) for investigating the molecular mechanisms behind complex traits, and more specifically drug-response phenotypes, aging and age-associated diseases. 
 
 ### Current position 
-- Bioinformatician Post-Doctoral Researcher @ Université Paris Cité - CNRS UMR7592 / Institut Jacques Monod (Paris, FRANCE)
+- Bioinformatician & Postdoctoral Research Associate @ Université Paris Cité - CNRS UMR7592 / Institut Jacques Monod (Paris, FRANCE)
 - Project in collaboration with
   - Michael Rera, PhD (<a href='https://michaelrera.github.io/'>Website</a>) [CNRS] (PI/Advisor)
   - Marc Santolini, PhD (<a href='https://interactiondatalab.com/'>Website</a>) [Learning Planet Institute] (Network Science Collaborator)
@@ -39,9 +39,10 @@ __________
 _________
 
 ### Latest news
-
-- 06/24/2024 to 06/28/2024: __I'll be at JOBIM Toulouse! Say hi, if you see me there 😊__
-- 09/23/2023: __PhD Defended!__ 🎉
+- 07/08/2024 to 07/11/2025: __I'll be at JOBIM 2025 in Bordeaux!__ 🍷 _Say hi, if you see me there 😊_
+- 03/19/2025 to 03/23/2025: __I attended GSA Dros25 in San Diego!__ 🌴 _My poster was about Studying Aging with Smurf flies using Gene Network-based Approaches_ 
+- 06/24/2024 to 06/28/2024: __I was at JOBIM 2024 Toulouse!__ 🌹 _I helped JeBIF as a volunteer for their hackathon on Method reproducibility_
+- 09/23/2023: __PhD Defended!__ 🎉 _5 years of adventures to become a Bioinformatician with a PhD_
 
 #### Where can you find me?
 - <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn 👨🏽‍💻</a>
