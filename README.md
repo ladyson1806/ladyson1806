@@ -40,14 +40,20 @@ _________
 
 ### Updates
 #### 2025
-- 07/08/2024 to 07/11/2025: __I'll be at JOBIM 2025 in Bordeaux!__ 🍷 _Say hi, if you see me there 😊_
-- 03/19/2025 to 03/23/2025: __I attended GSA Dros25 in San Diego!__ 🌴 _My poster was about Studying Aging with Smurf flies using Gene Network-based Approaches_
-- 01/01/2025: __2nd PostDoc in Paris__ 🪰 _I got a 2-year Postdoctoral Fellowship from FRM, still playing with Smurf flies, Omics, and Networks to understand Aging_
+- 07/08/2024 to 07/11/2025: __I'll be at JOBIM 2025 in Bordeaux!__ 🍷
+> _Say Hi if you see me there 😊_
+- 03/19/2025 to 03/23/2025: __I attended GSA Dros25 in San Diego!__ 🌴
+> _My poster was about Studying Aging with Smurf flies using Gene Network-based Approaches_
+- 01/01/2025: __2nd PostDoc in Paris__ 🪰👨🏽‍💻
+>_I got a 2-year Postdoctoral Fellowship from FRM, still playing with Smurf flies, Omics, and Networks to understand Aging_
 #### 2024
-- 06/24/2024 to 06/28/2024: __I was at JOBIM 2024 Toulouse!__ 🌹 _I helped JeBIF as a volunteer for their hackathon on Method reproducibility_
+- 06/24/2024 to 06/28/2024: __I was at JOBIM 2024 Toulouse!__ 🌹
+> _I helped JeBIF (The Young French Bioinformatians) as a volunteer for their hackathon on Method reproducibility_
 #### 2023 
-- 09/23/2023: __1st PostDoc in Paris__ 🪰 _Playing with Smurf flies, Omics, and Networks to understand aging_
-- 09/05/2023: __PhD Defended!__ 🎉 _5 years of adventures to become a Bioinformatician with a PhD_
+- 09/23/2023: __1st PostDoc in Paris__ 🪰👨🏽‍💻
+> _Playing with Smurf flies, Omics, and Networks to understand aging_
+- 09/05/2023: __PhD Defended!__ 🎉
+> _5-year journey to become a Bioinformatician with a PhD diploma_
 
 #### Where (else) can you find me?
 - <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn 👨🏽‍💻</a>
