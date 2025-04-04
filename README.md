@@ -7,8 +7,8 @@ I am a passionate bioinformatician who love working various -omics data (genomes
 ### Current position 
 - Bioinformatician Post-Doctoral Researcher @ Université Paris Cité - CNRS UMR7592 / Institut Jacques Monod (Paris, FRANCE)
 - Project in collaboration with
-  - Michael Rera, PhD (<a href='https://michaelrera.github.io/'>Website</a>) [CNRS]
-  - Marc Santolini, PhD (<a href='https://interactiondatalab.com/'>Website</a>) [Learning Planet Institute]
+  - Michael Rera, PhD (<a href='https://michaelrera.github.io/'>Website</a>) [CNRS] (PI/Advisor)
+  - Marc Santolini, PhD (<a href='https://interactiondatalab.com/'>Website</a>) [Learning Planet Institute] (Network Science Collaborator)
 
 _________
 
