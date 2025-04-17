@@ -54,7 +54,3 @@ _________
 > _Playing with Smurf flies, Omics, and Networks to understand aging_
 - September, 5th: __PhD Defended!__ 🎉
 > _5-year journey to become a Bioinformatician with a PhD diploma_
-
-#### Where (else) can you find me?
-- <a href='https://www.linkedin.com/in/savandara-besse'>LinkedIn 👨🏽‍💻</a>
-- <a href='https://www.researchgate.net/profile/Savandara-Besse'>ResearchGate 👩‍🔬</a>
