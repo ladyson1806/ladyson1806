@@ -44,12 +44,14 @@ __________
 [Molecular Biology and Evolution, 2021, msab284](https://doi.org/10.1093/molbev/msab284) ([Code](https://github.com/extavourlab/Oskar_Evolution))
 
 #### In Revision
-- __Savandara Besse__\*, Tatsuya Sakaguchi\*, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G. Hussin, Stephen W. Michnick, Adrian W.R. Serohijos, __Genetic landscape of an in vivo protein interactome__ <br>, Available on [BioRxiv 2023.12.14.571726](doi: https://doi.org/10.1101/2023.12.14.571726)
+- __Savandara Besse__\*, Tatsuya Sakaguchi\*, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G. Hussin, Stephen W. Michnick, Adrian W.R. Serohijos, __Genetic landscape of an in vivo protein interactome__, Available on [BioRxiv 2023.12.14.571726](doi: https://doi.org/10.1101/2023.12.14.571726)
 
 \* : Co-first Authors
 _________
 
 ### Updates
+#### 2026
+
 #### 2025
 - July, 8th-11th: __I'll be at JOBIM 2025 in Bordeaux!__ 🍷
 > _Say Hi if you see me there 😊_
@@ -57,9 +59,11 @@ _________
 > _My poster was about Studying Aging with Smurf flies using Gene Network-based Approaches_
 - Early January: __2nd PostDoc in Paris__ 🪰👨🏽‍💻
 >_I got a 2-year Postdoctoral Fellowship from FRM, still playing with Smurf flies, Omics, and Networks to understand Aging_
+
 #### 2024
 - June, 24th-28th: __I was at JOBIM 2024 Toulouse!__ 🌹
 > _I helped JeBIF (The Young French Bioinformatians) as a volunteer for their hackathon on Method reproducibility_
+
 #### 2023 
 - Mid-September: __1st PostDoc in Paris__ 🪰👨🏽‍💻
 > _Playing with Smurf flies, Omics, and Networks to understand aging_
