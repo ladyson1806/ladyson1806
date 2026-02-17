@@ -56,7 +56,7 @@ _________
 
 #### 2025
 - July, 8th-11th: __I was at JOBIM 2025 in Bordeaux!__ 🍷
-> I met the [GT MERIT "Heterogeneous Data Integration"](https://merit.cnrs.fr/gt-integration-de-donnees-heterogenes/)  co-organizers and joined their team!
+> I met the [GT MERIT "Heterogeneous Data Integration"](https://merit.cnrs.fr/gt-integration-de-donnees-heterogenes/) co-organizers and joined their team!
 - March, 19th-23rd: __I attended GSA Dros25 in San Diego!__ 🌴
 > _My poster was about Studying Aging with Smurf flies using Gene Network-based Approaches_
 - Early January: __2nd PostDoc in Paris__ 🪰👨🏽‍💻
@@ -67,7 +67,7 @@ _________
 > _I helped JeBIF (The Young French Bioinformatians) as a volunteer for their hackathon on Method reproducibility_
 
 #### 2023 
-- Mid-September: __1st PostDoc in Paris__ 🪰👨🏽‍💻
+- Mid-September: __1st PostDoc started in Paris__ 🪰👨🏽‍💻
 > _Playing with Smurf flies, Omics, and Networks to understand aging_
 - September, 5th: __PhD Defended!__ 🎉
 > _5-year journey to become a Bioinformatician with a PhD diploma_
