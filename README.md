@@ -5,7 +5,7 @@
 I am a passionate bioinformatician who loves working with various -omics data (genomes, transcriptomes, proteomes, and interactomes) to investigate the molecular mechanisms behind complex traits, specifically drug-response phenotypes, aging, and age-associated diseases. 
 
 ### Current position 
-- Bioinformatician & Postdoctoral Research Associate @ Université Paris Cité - Unité BFA CNRS UMR 8251 – Campus des Grands Moulins (Paris, FRANCE)
+- Bioinformatician & Postdoctoral Research Associate @ Université Paris Cité - Unité BFA CNRS UMR 8251 (Paris, FRANCE)
 - Project in collaboration with
   - Michael Rera, PhD (<a href='https://michaelrera.github.io/'>Website</a>) [CNRS] (PI/Advisor)
   - Marc Santolini, PhD (<a href='https://interactiondatalab.com/'>Website</a>) [Learning Planet Institute] (Network Science Collaborator)
