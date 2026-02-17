@@ -51,10 +51,12 @@ _________
 
 ### Updates
 #### 2026
+- June/July 30th-3rd: __I'll be at JOBIM 2026 in Strasbourg!__
+> _Say Hi if you see me there 😊_
 
 #### 2025
-- July, 8th-11th: __I'll be at JOBIM 2025 in Bordeaux!__ 🍷
-> _Say Hi if you see me there 😊_
+- July, 8th-11th: __I was at JOBIM 2025 in Bordeaux!__ 🍷
+> I met the [GT MERIT "Heterogeneous Data Integration"](https://merit.cnrs.fr/gt-integration-de-donnees-heterogenes/)  co-organizers and joined their team!
 - March, 19th-23rd: __I attended GSA Dros25 in San Diego!__ 🌴
 > _My poster was about Studying Aging with Smurf flies using Gene Network-based Approaches_
 - Early January: __2nd PostDoc in Paris__ 🪰👨🏽‍💻
