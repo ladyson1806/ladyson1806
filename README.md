@@ -44,8 +44,7 @@ __________
 [Molecular Biology and Evolution, 2021, msab284](https://doi.org/10.1093/molbev/msab284) ([Code](https://github.com/extavourlab/Oskar_Evolution))
 
 #### In Revision
-- __Savandara Besse__\*, Tatsuya Sakaguchi\*, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G. Hussin, Stephen W. Michnick, Adrian W.R. Serohijos, __Genetic landscape of an in vivo protein interactome__ <br>
-Available on [BioRxiv 2023.12.14.571726](doi: https://doi.org/10.1101/2023.12.14.571726)
+- __Savandara Besse__\*, Tatsuya Sakaguchi\*, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G. Hussin, Stephen W. Michnick, Adrian W.R. Serohijos, __Genetic landscape of an in vivo protein interactome__ <br>, Available on [BioRxiv 2023.12.14.571726](doi: https://doi.org/10.1101/2023.12.14.571726)
 
 \* : Co-first Authors
 _________
