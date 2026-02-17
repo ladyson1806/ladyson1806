@@ -33,13 +33,15 @@ __________
 
 
 - Raquel R. Martins, __Savandara Besse__, Pam S. Ellis, Rabia Sevil, Naomi Hartopp, Catherine Purse, Georgia Everett-Brown, Owain Evans, Nadiyah Mughal, Mina H. F. Wahib, Zerkif Yazigan, Samir Morsli, Ada Jimenez-Gonzalez, Andrew Grierson, Heather Mortiboys, Chrissy Hammond, Michael Rera, Catarina M. Henriques, __Telomerase Depletion Accelerates Ageing of the Zebrafish Brain__,
-In press, [Aging Cell, 2025, ](https://doi.org/10.1111/acel.70280)
+In press, [Aging Cell, 2025, acel.70280](https://doi.org/10.1111/acel.70280)
 
-- Flaminia Zane, Hayet Bouzid, Sofia Sosa Marmol, Mira Brazane, __Savandara Besse__, Julia Lisa Molina, Céline Cansell, Fanny Aprahamian, Sylvère Durand, Jessica Ayache, Christophe Antoniewski, Michael Rera, __Smurfness-based two-phase model of ageing helps deconvolve the ageing transcriptional signature__, In press, [Aging Cell, 2023, ](https://doi.org/10.1101/2022.11.22.517330) ([Code](https://github.com/MichaelRera/SmurfsTrsc))
+- Flaminia Zane, Hayet Bouzid, Sofia Sosa Marmol, Mira Brazane, __Savandara Besse__, Julia Lisa Molina, Céline Cansell, Fanny Aprahamian, Sylvère Durand, Jessica Ayache, Christophe Antoniewski, Michael Rera, __Smurfness-based two-phase model of ageing helps deconvolve the ageing transcriptional signature__, In press, [Aging Cell, 2023, acel.13946](https://onlinelibrary.wiley.com/doi/10.1111/acel.13946), ([Code](https://github.com/MichaelRera/SmurfsTrsc))
 
-- __Savandara Besse__, Raphaël Poujol, Julie Hussin, __Comparative study of protein aggregation propensity and mutation tolerance between naked mole-rat and mouse__, Published in [Genome Biology and Evolution, 2022, evac057](https://doi.org/10.1093/gbe/evac057) ([Code](https://github.com/ladyson1806/NKR_lifespan))
+- __Savandara Besse__, Raphaël Poujol, Julie Hussin, __Comparative study of protein aggregation propensity and mutation tolerance between naked mole-rat and mouse__, 
+In press, [Genome Biology and Evolution, 2022, evac057](https://doi.org/10.1093/gbe/evac057) ([Code](https://github.com/ladyson1806/NKR_lifespan))
 
-- Leo Blondel,  __Savandara Besse__, Emily Rivard, Guillem Ylla, Cassandra Extavour, __Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of the novel germ line regulator _oskar___, Published in [Molecular Biology and Evolution, 2021, msab284](https://doi.org/10.1093/molbev/msab284) ([Code](https://github.com/extavourlab/Oskar_Evolution))
+- Leo Blondel,  __Savandara Besse__, Emily Rivard, Guillem Ylla, Cassandra Extavour, __Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of the novel germ line regulator _oskar___, 
+In press, [Molecular Biology and Evolution, 2021, msab284](https://doi.org/10.1093/molbev/msab284) ([Code](https://github.com/extavourlab/Oskar_Evolution))
 
 _________
 
