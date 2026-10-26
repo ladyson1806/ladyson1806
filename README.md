@@ -25,7 +25,7 @@ _________
 _________
 
 ### Expertise and interests
-$\bullet$ Bioinformatics $\bullet$ Computational Systems Biology $\bullet$ Evolutionary Biology $\bullet$ Population Genetics $\bullet$ Statistical Genetics $\bullet$ Network Science <br>
+$\bullet$ Bioinformatics $\bullet$ Computational Systems Biology $\bullet$ Evolutionary Biology $\bullet$ Network Biology $\bullet$ Integrative Biology $\bullet$ Statistical Genetics $\bullet$ Omics Data Science <br>
 
 $\bullet$ Complex traits $\bullet$ Omics-data science $\bullet$ Biological Networks $\bullet$ GWAS $\bullet$ QTL mapping $\bullet$ Biology of Aging $\bullet$ Evolution of Aging <br>
 $\bullet$ Conventional (_S. cerevisiae_, _D. melanogaster_, _D. renio_, _M. musculus_) and non conventional (_H. glaber_) model organisms
