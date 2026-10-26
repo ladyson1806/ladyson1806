@@ -5,6 +5,10 @@
 I am a passionate bioinformatician who loves working with various -omics data (genomes, transcriptomes, proteomes, and interactomes) to investigate the molecular mechanisms behind complex traits, specifically drug-response phenotypes, aging, and age-associated diseases. 
 
 ### Current position 
+Actively looking for a new job!
+
+
+### Previous position (2023-2026)
 - Bioinformatician & Postdoctoral Research Associate @ Université Paris Cité - Unité BFA CNRS UMR 8251 (Paris, FRANCE)
 - Project in collaboration with
   - Michael Rera, PhD (<a href='https://michaelrera.github.io/'>Website</a>) [CNRS] (PI/Advisor)
@@ -31,6 +35,10 @@ __________
 ### Latest publications
 
 #### In Press
+- __Savandara Besse__\*, Tatsuya Sakaguchi\*, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G. Hussin, Stephen W. Michnick, Adrian W.R. Serohijos, __Genetic landscape of an in vivo protein interactome__, [Nature Genetics, 2026, s41588-026-02747-z](https://doi.org/10.1038/s41588-026-02747-z)
+  
+\* : Co-first Authors
+  
 - Raquel R. Martins, __Savandara Besse__, Pam S. Ellis, Rabia Sevil, Naomi Hartopp, Catherine Purse, Georgia Everett-Brown, Owain Evans, Nadiyah Mughal, Mina H. F. Wahib, Zerkif Yazigan, Samir Morsli, Ada Jimenez-Gonzalez, Andrew Grierson, Heather Mortiboys, Chrissy Hammond, Michael Rera, Catarina M. Henriques, __Telomerase Depletion Accelerates Ageing of the Zebrafish Brain__ <br>
 [Aging Cell, 2025, acel.70280](https://doi.org/10.1111/acel.70280)
 
@@ -43,10 +51,6 @@ __________
 - Leo Blondel,  __Savandara Besse__, Emily Rivard, Guillem Ylla, Cassandra Extavour, __Evolution of a cytoplasmic determinant: evidence for the biochemical basis of functional evolution of the novel germ line regulator _oskar___ <br>
 [Molecular Biology and Evolution, 2021, msab284](https://doi.org/10.1093/molbev/msab284) ([Code](https://github.com/extavourlab/Oskar_Evolution))
 
-#### In Revision
-- __Savandara Besse__\*, Tatsuya Sakaguchi\*, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G. Hussin, Stephen W. Michnick, Adrian W.R. Serohijos, __Genetic landscape of an in vivo protein interactome__, Available on [BioRxiv 2023.12.14.571726](https://doi.org/10.1101/2023.12.14.571726)
-
-\* : Co-first Authors
 _________
 
 ### Updates
