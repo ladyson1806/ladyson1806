@@ -36,12 +36,13 @@ __________
 ### Latest publications
 
 #### In Press
-- __Savandara Besse__\*, Tatsuya Sakaguchi\*, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G. Hussin, Stephen W. Michnick, Adrian W.R. Serohijos, __Genetic landscape of an in vivo protein interactome__, [Nature Genetics, 2026, s41588-026-02747-z](https://doi.org/10.1038/s41588-026-02747-z)
+- __Savandara Besse__\*, Tatsuya Sakaguchi\*, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G. Hussin, Stephen W. Michnick, Adrian W.R. Serohijos, __Genetic landscape of an in vivo protein interactome__, [Nature Genetics, 2026, s41588-026-02747-z](https://doi.org/10.1038/s41588-026-02747-z) ([Code](https://github.com/ladyson1806/piQTL-SerohijosLab))
+
   
 \* : Co-first Authors
   
 - Raquel R. Martins, __Savandara Besse__, Pam S. Ellis, Rabia Sevil, Naomi Hartopp, Catherine Purse, Georgia Everett-Brown, Owain Evans, Nadiyah Mughal, Mina H. F. Wahib, Zerkif Yazigan, Samir Morsli, Ada Jimenez-Gonzalez, Andrew Grierson, Heather Mortiboys, Chrissy Hammond, Michael Rera, Catarina M. Henriques, __Telomerase Depletion Accelerates Ageing of the Zebrafish Brain__ <br>
-[Aging Cell, 2025, acel.70280](https://doi.org/10.1111/acel.70280)
+[Aging Cell, 2025, acel.70280](https://doi.org/10.1111/acel.70280) 
 
 - Flaminia Zane, Hayet Bouzid, Sofia Sosa Marmol, Mira Brazane, __Savandara Besse__, Julia Lisa Molina, Céline Cansell, Fanny Aprahamian, Sylvère Durand, Jessica Ayache, Christophe Antoniewski, Michael Rera, __Smurfness-based two-phase model of ageing helps deconvolve the ageing transcriptional signature__ <br>
 [Aging Cell, 2023, acel.13946](https://onlinelibrary.wiley.com/doi/10.1111/acel.13946) ([Code](https://github.com/MichaelRera/SmurfsTrsc))
